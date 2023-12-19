@@ -11,7 +11,10 @@
 
 <br>
 
-👋 Hey there! as I mentioned my name is Jokasta but you can call me only Jo 😃, I am a Junior Full-Stack Developer based in the vibrant city of London 🇬🇧 🎡. My coding journey has led me to specialize in the following languages: 
+👋 Hey there! as I mentioned my name is Jokasta but you can call me only Jo 😃, I am a Junior Full-Stack Developer based in the vibrant city of London 🇬🇧 🎡. 
+<br>
+<br>
+My coding journey has led me to specialize in the following languages: 
 
 
 ### 🛠 &nbsp;Technologies: 
